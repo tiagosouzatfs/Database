@@ -1,0 +1,3 @@
+https://mariadb.com/kb/en/data-types/
+
+https://mariadb.com/downloads/
